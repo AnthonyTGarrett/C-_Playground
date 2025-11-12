@@ -170,3 +170,20 @@
 
 // } while (validInput == false);
 
+// string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+
+// int periodLocation = 0;
+
+// foreach(string myString in myStrings)
+// {
+//   periodLocation = myString.IndexOf(".");
+//   string phrase = "";
+
+//   while(periodLocation != -1)
+//   {
+//     phrase = myString.Remove(periodLocation);
+//     System.Console.WriteLine(currentPhrase);
+//     temp = myString.Substring(periodLocation);
+
+//   }
+// }
